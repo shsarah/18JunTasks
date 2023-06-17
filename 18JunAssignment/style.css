@@ -1,0 +1,10 @@
+#tbl td{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+body{
+    height: 100vh;
+}
